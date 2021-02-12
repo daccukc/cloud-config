@@ -1,6 +1,9 @@
 info:
   foo: bar  
 
+example:
+  property: I AM IN THE DEFAULT
+
 eureka:
   client:
     register-with-eureka: true
