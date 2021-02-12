@@ -1,5 +1,5 @@
 example:
-  property: "I AM IN THE DEFAULT"
+  property: I AM IN THE DEFAULT
 
 ## Spring DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
 spring.datasource.url: "jdbc:mysql://localhost:3306/world?useSSL=false"
