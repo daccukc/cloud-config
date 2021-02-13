@@ -1,5 +1,5 @@
 info:
-  foo: bar  
+  foo: Dev  
 
 example:
   property: I AM IN THE application-dev.yml
