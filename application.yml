@@ -4,6 +4,9 @@ owner:
 info:
   foo: bar  
 
+hello:
+  rel: Remote Dac
+
 example:
   property: I AM IN THE DEFAULT
 
