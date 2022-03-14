@@ -1,4 +1,19 @@
+spring:
+  application:
+    name: TestApplication
+
+server:
+  port: 8087
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+env: test  
+
+
 owner:
-  name: sasmita samanta singhar
+  name: test sasmita samanta singhar
 hello:
   rel: test dj
