@@ -5,6 +5,8 @@ spring:
 server:
   port: 8086
 
+env: default
+
 management:
   endpoints:
     web:
@@ -12,4 +14,6 @@ management:
         include: '*'
 
 hello:
-  rel: remote Dac
+  rel: default remote Dac
+owner:
+  name: default sasmita samanta singhar
