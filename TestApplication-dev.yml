@@ -1,2 +1,19 @@
+spring:
+  application:
+    name: TestApplication
+
+server:
+  port: 8086
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+env: Test  
+
 owner:
   name: killer
+hello:
+  rel: dev dj
+  
