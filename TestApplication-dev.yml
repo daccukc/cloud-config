@@ -13,7 +13,7 @@ management:
 env: dev  
 
 owner:
-  name: killer
+  name: dev killer
 hello:
   rel: dev dj
   
